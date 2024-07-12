@@ -29,7 +29,7 @@ export default function HomePage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center">
       <TypewriterEffectSmooth words={words} />
-      <div className="flex flex-row justify-center">
+      <div className="flex flex-row justify-center gap-2">
         <code className="relative rounded bg-muted px-[0.3rem] py-[0.2rem] font-mono text-sm font-semibold">
           curl cooper-gadd.io/api/readme
         </code>
