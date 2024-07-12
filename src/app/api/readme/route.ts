@@ -5,7 +5,7 @@ export async function GET() {
 - **GitHub:** [cooper-gadd](https://github.com/cooper-gadd)
 - **LinkedIn:** [Cooper Gadd](https://www.linkedin.com/in/coopergadd/)
 - **Email:** [coopergadd@yahoo.com](mailto:coopergadd@yahoo.com)
-- **Portfolio:** [ctgadd.com](https://www.ctgadd.com/)
+- **Portfolio:** [cooper-gadd.io](https://www.cooper-gadd.io/)
 
 ## Objective
 
