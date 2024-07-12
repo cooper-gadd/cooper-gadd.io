@@ -31,9 +31,9 @@ export default function HomePage() {
       <TypewriterEffectSmooth words={words} />
       <div className="flex flex-row justify-center gap-2">
         <code className="relative rounded bg-muted px-[0.3rem] py-[0.2rem] font-mono text-sm font-semibold">
-          curl cooper-gadd.io/api/readme
+          curl https://www.cooper-gadd.io/api/readme
         </code>
-        <CopyButton value="curl cooper-gadd.io/api/readme" />
+        <CopyButton value="curl https://www.cooper-gadd.io/api/readme" />
       </div>
       <BackgroundBeams />
     </main>
