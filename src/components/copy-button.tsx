@@ -1,10 +1,12 @@
+"use client";
+
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import React from "react";
 import { CheckIcon, ClipboardIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
 
-export function CopyButton({
+export default function CopyButton({
   value,
   className,
 }: {
@@ -37,5 +39,3 @@ export function CopyButton({
     </Button>
   );
 }
-
-export default CopyButton;
