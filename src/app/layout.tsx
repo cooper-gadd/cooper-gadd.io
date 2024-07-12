@@ -12,7 +12,7 @@ const fontSans = FontSans({
 
 export const metadata: Metadata = {
   title: "Cooper Gadd",
-  description: "Personal website of Cooper Gadd",
+  description: "Cooper's Sandbox",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
