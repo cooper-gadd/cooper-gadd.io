@@ -1,0 +1,49 @@
+? What is your education
+◉ Rochester Institute of Technology
+◉ Computing and Information Technologies
+◉ 3.8 GPA
+! You must be a smart cookie! 🍪
+
+? What is your experience
+(1/3)
+◉ Software Engineer
+◉ December 2022 – Present
+◉ Attica, New York, United States · Hybrid
+◉ Developed and hosted a React app, created a SQL database application with Microsoft Access for material tracking.
+(2/3)
+◉ Software Engineer
+◉ Excellus BCBS · Internship
+◉ June 2024 - Present
+◉ Rochester, New York, United States · Hybrid
+◉ Developed a proof of concept Next.js app utilizing artificial intelligence for document routing, aimed at potentially increasing company revenue.
+(3/3)
+◯ Software Engineer
+◯ Touchstone Technology, Inc. · Internship
+◯ March 2023 - May 2024
+◯ Rochester, New York, United States · On-site
+◯ Developed a Blazor WebAssembly app for employee assignments, reports, and inventory tracking, with a SQL database.
+! That is quite a journey 🚀
+
+? What projects have you worked on
+(1/3)
+◉ Cows
+◉ June 2024 - Present
+◉ Developed a sleek and modern weather app that presents data from my weather station API in a visually appealing way, offering real-time conditions, forecasts, and historical trends.
+◉ GitHub: https://github.com/cooper-gadd/cows
+(2/3)
+◉ Savr
+◉ June 2024 - Present
+◉ Developed an intuitive recipe manager using Postgres and Next.js with CI/CD, user authentication, error management, analytics, and rate limiting.
+◉ GitHub: https://github.com/cooper-gadd/savr
+(3/3)
+◯ Professional Society Election Platform
+◯ February 2024 - May 2024
+◯ Developed a multi-tenant election app using Postgres, Express, and Next.js for professional societies, with robust roles and admin controls, and a multi-layered server architecture.
+◯ GitHub: https://github.com/RIT-iSchool/election-project-the_balkans
+! Impressive array of full-stack projects 🌐
+
+? What are your social links
+◉ GitHub: https://github.com/cooper-gadd
+◉ LinkedIn: https://www.linkedin.com/in/coopergadd/
+◉ Mail: coopergadd@yahoo.com
+! Thanks for sharing your social links 📱
