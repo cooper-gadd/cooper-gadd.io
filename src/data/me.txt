@@ -25,17 +25,12 @@
 ! That is quite a journey 🚀
 
 ? What projects have you worked on
-(1/3)
+(1/2)
 ◉ Cows
 ◉ June 2024 - Present
 ◉ Developed a sleek and modern weather app that presents data from my weather station API in a visually appealing way, offering real-time conditions, forecasts, and historical trends.
 ◉ GitHub: https://github.com/cooper-gadd/cows
-(2/3)
-◉ Savr
-◉ June 2024 - Present
-◉ Developed an intuitive recipe manager using Postgres and Next.js with CI/CD, user authentication, error management, analytics, and rate limiting.
-◉ GitHub: https://github.com/cooper-gadd/savr
-(3/3)
+(2/2)
 ◯ Professional Society Election Platform
 ◯ February 2024 - May 2024
 ◯ Developed a multi-tenant election app using Postgres, Express, and Next.js for professional societies, with robust roles and admin controls, and a multi-layered server architecture.
