@@ -4,25 +4,25 @@
 ◉ Excellus BCBS · Internship
 ◉ June 2024 - Present
 ◉ Rochester, New York, United States · Hybrid
-◉ Developed proof-of-concept Next.js apps utilizing artificial intelligence for document routing and prior authorization processing, aimed at significantly increasing company revenue.
+◉ Collaborated with the Innovation team to develop proof-of-concept Next.js apps with TypeScript. Utilized artificial intelligence for document routing and prior authorization processing. Projects aimed at significantly increasing company revenue. Currently working with a team in the Software Engineering Solutions department.
 (2/4)
 ◉ Software Engineer
-◉ Attica Package Company Inc. · Freelance
+◉ Attica Package Company Inc. · Part-Time
 ◉ December 2022 – Present
 ◉ Attica, New York, United States · Hybrid
-◉ Developed and deployed a React app, created a SQL database application with Microsoft Access for material tracking.
+◉ Developed and deployed a React app with TypeScript showcasing products. Created a SQL database application with Microsoft Access for material tracking.
 (3/4)
 ◯ Software Engineer
 ◯ Touchstone Technology, Inc. · Internship
 ◯ March 2023 - May 2024
 ◯ Rochester, New York, United States · On-site
-◯ Developed a Blazor app for employee assignments, reports, and inventory tracking, with Microsoft SQL Server.
+◯ Developed a Blazor app with C# for employee assignments, reports, and inventory tracking, with Microsoft SQL Server.
 (4/4)
 ◉ Software Engineer
 ◉ Gateway Home · Volunteer
 ◉ December 2019 – Present
 ◉ Attica, New York, United States · Hybrid
-◉ Developed a Next.js app for enhancing visual appeal and enabling quicker content updates to improve overall user experience.
+◉ Developing a Next.js app with TypeScript for viewing upcoming events, blog posts, job openings, ways to donate, and contact information.
 ! That is quite a journey 🚀
 
 ? What is your education
@@ -45,8 +45,9 @@
 ! Impressive array of full-stack projects 🌐
 
 ? What are your skills
-◉ Web Development: React, Next.js, Blazor
-◉ Database Applications: SQL (Microsoft SQL Server, MySQL, PostgreSQL, SQLite)
+◉ Languages: TypeScript, JavaScript, PHP, CSS, HTML, Java, C#, Python
+◉ Frameworks & Libraries: React, Next.js, Blazor, Express.js, Angular
+◉ SQL: Microsoft SQL Server, MySQL, PostgreSQL, SQLite
 ◉ Cloud Computing: AWS, Vercel, Databricks
 ! You've got a great set of skills! 💪
 
